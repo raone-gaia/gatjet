@@ -1,2 +1,3 @@
-# gatjet
-GatJet - just play and fill awesome.
+# GatJet
+
+Just play and fill awesome.
